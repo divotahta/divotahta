@@ -40,7 +40,7 @@
   </p>
   
   <p align="center" dir="auto" style="position: relative; z-index: 4;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=🐍+Snake+Text+Animation+🐍;Web+Developer+%7C+Coder+%7C+Innovator;Passionate+About+Technology+%F0%9F%92%BB;Creating+Amazing+Digital+Experiences+%F0%9F%8E%A8;Always+Learning+%7C+Always+Growing+%F0%9F%93%9A" alt="Snake Text Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=🐍+Divo+Text+Tahta+🐍;Web+Developer+%7C+Coder+%7C+Innovator;Passionate+About+Technology+%F0%9F%92%BB;Creating+Amazing+Digital+Experiences+%F0%9F%8E%A8;Always+Learning+%7C+Always+Growing+%F0%9F%93%9A" alt="Snake Text Animation" />
   </p>
   
   <p align="center" dir="auto" style="position: relative; z-index: 4;">
