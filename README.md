@@ -17,7 +17,7 @@
 
 <!-- 3D TEXT EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=3D+Web+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;Innovation+Enthusiast+%F0%9F%9A%80" alt="3D Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;Innovation+Enthusiast+%F0%9F%9A%80" alt="3D Typing SVG" />
 </p>
 
 <!-- BADGE CUSTOM & WARNA-WARNI -->
