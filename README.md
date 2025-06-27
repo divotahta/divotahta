@@ -1,6 +1,6 @@
 <!-- HEADER ANIMASI -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Divo+Tahta+Imannulloh!;Web+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+colorful+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Divo+Tahta+Imannulloh!;Web+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <!-- BANNER ANIMASI -->
