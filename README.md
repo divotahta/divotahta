@@ -10,9 +10,9 @@
 
 <!-- 3D ROTATING CUBE ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 <!-- 3D TEXT EFFECT -->
@@ -42,9 +42,9 @@
 
 <!-- 3D PARTICLE EFFECT -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
 </p>
 
 ---
@@ -174,7 +174,7 @@
 
 <!-- 3D FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
   <img src="https://komarev.com/ghpvc/?username=divotahta&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 </p>
