@@ -1,73 +1,84 @@
 <!-- BACKGROUND TEXTURE SECTION -->
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
   
-  <!-- Animated background pattern -->
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: radial-gradient(circle at 25% 25%, rgba(88, 166, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 75% 75%, rgba(88, 166, 255, 0.1) 0%, transparent 50%);"></div>
+  <!-- Grid background pattern -->
+  <svg width="100%" height="150" style="position: absolute; top: 0; left: 0; z-index: 1;">
+    <defs>
+      <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+        <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(88, 166, 255, 0.1)" stroke-width="1"/>
+      </pattern>
+      <linearGradient id="gridGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:rgba(88, 166, 255, 0.05);stop-opacity:1" />
+        <stop offset="50%" style="stop-color:rgba(88, 166, 255, 0.1);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgba(88, 166, 255, 0.05);stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="150" fill="url(#grid)"/>
+    <rect width="100%" height="150" fill="url(#gridGradient)"/>
+  </svg>
   
-  <!-- Grid pattern overlay -->
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(88, 166, 255, 0.1) 20px), repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(88, 166, 255, 0.1) 20px);"></div>
+  <!-- Animated background pattern -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: radial-gradient(circle at 25% 25%, rgba(88, 166, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 75% 75%, rgba(88, 166, 255, 0.1) 0%, transparent 50%); z-index: 2;"></div>
   
   <!-- Floating particles -->
-  <div style="position: absolute; top: 20%; left: 10%; width: 6px; height: 6px; background: rgba(88, 166, 255, 0.3); border-radius: 50%;"></div>
-  <div style="position: absolute; top: 60%; right: 15%; width: 4px; height: 4px; background: rgba(255, 107, 107, 0.4); border-radius: 50%;"></div>
-  <div style="position: absolute; bottom: 30%; left: 20%; width: 3px; height: 3px; background: rgba(78, 205, 196, 0.5); border-radius: 50%;"></div>
-  <div style="position: absolute; top: 25%; right: 25%; width: 2px; height: 2px; background: rgba(254, 202, 87, 0.6); border-radius: 50%;"></div>
-  <div style="position: absolute; bottom: 20%; right: 10%; width: 3px; height: 3px; background: rgba(255, 159, 243, 0.4); border-radius: 50%;"></div>
+  <div style="position: absolute; top: 20%; left: 10%; width: 6px; height: 6px; background: rgba(88, 166, 255, 0.3); border-radius: 50%; z-index: 3;"></div>
+  <div style="position: absolute; top: 60%; right: 15%; width: 4px; height: 4px; background: rgba(255, 107, 107, 0.4); border-radius: 50%; z-index: 3;"></div>
+  <div style="position: absolute; bottom: 30%; left: 20%; width: 3px; height: 3px; background: rgba(78, 205, 196, 0.5); border-radius: 50%; z-index: 3;"></div>
+  <div style="position: absolute; top: 25%; right: 25%; width: 2px; height: 2px; background: rgba(254, 202, 87, 0.6); border-radius: 50%; z-index: 3;"></div>
+  <div style="position: absolute; bottom: 20%; right: 10%; width: 3px; height: 3px; background: rgba(255, 159, 243, 0.4); border-radius: 50%; z-index: 3;"></div>
   
-  <!-- HEADER ANIMASI -->
-  <p align="center" style="position: relative; z-index: 2;">
+  <div dir="auto"></div>
+  <div dir="auto"></div>
+  <div dir="auto"></div>
+  <div dir="auto"></div>
+  <div dir="auto"></div>
+  <div dir="auto"></div>
+  <div dir="auto"></div>
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Divo+Tahta+Imannulloh!;Web+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+colorful+GitHub+profile!" alt="Typing SVG" />
   </p>
-
-  <!-- SNAKE TEXT ANIMATION -->
-  <p align="center" style="position: relative; z-index: 2;">
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=🐍+Snake+Text+Animation+🐍;Web+Developer+%7C+Coder+%7C+Innovator;Passionate+About+Technology+%F0%9F%92%BB;Creating+Amazing+Digital+Experiences+%F0%9F%8E%A8;Always+Learning+%7C+Always+Growing+%F0%9F%93%9A" alt="Snake Text Animation" />
   </p>
-
-  <!-- BANNER ANIMASI -->
-  <p align="center" style="position: relative; z-index: 2;">
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
   </p>
-
-  <!-- 3D ROTATING CUBE ANIMATION -->
-  <p align="center" style="position: relative; z-index: 2;">
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
   </p>
-
-  <!-- 3D TEXT EFFECT -->
-  <p align="center" style="position: relative; z-index: 2;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=3D+Web+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;Innovation+Enthusiast+%F0%9F%9A%80" alt="3D Typing SVG" />
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;Innovation+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   </p>
-
-  <!-- BADGE CUSTOM & WARNA-WARNI -->
-  <p align="center" style="position: relative; z-index: 2;">
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://img.shields.io/badge/Code-Passion-FF00FF?style=for-the-badge&logo=codeforces&logoColor=white" />
     <img src="https://img.shields.io/badge/Open%20Source-Lover-00FF00?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Web%20Dev-Active-00BFFF?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-Fan-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Ngoding%20Setiap%20Hari-Yes!-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </p>
-
-  <!-- 3D PROGRESS BAR SKILL -->
-  <p align="center" style="position: relative; z-index: 2;">
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://github-readme-stats.vercel.app/api?username=divotahta&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" width="400" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=divotahta&theme=radical&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&currStreakLabel=58A6FF&sideNums=ffffff&sideLabels=58A6FF&dates=ffffff" width="400" />
   </p>
-
-  <!-- 3D WAVE SVG -->
-  <p align="center" style="position: relative; z-index: 2;">
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
   </p>
-
-  <!-- 3D PARTICLE EFFECT -->
-  <p align="center" style="position: relative; z-index: 2;">
+  
+  <p align="center" dir="auto" style="position: relative; z-index: 4;">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
   </p>
-
 </div>
 
 ---
