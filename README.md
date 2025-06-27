@@ -1,22 +1,27 @@
 <!-- BACKGROUND TEXTURE SECTION -->
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
   
   <!-- Animated background pattern -->
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: radial-gradient(circle at 25% 25%, rgba(255,255,255,0.1) 0%, transparent 50%), radial-gradient(circle at 75% 75%, rgba(255,255,255,0.1) 0%, transparent 50%); animation: float 6s ease-in-out infinite;"></div>
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: radial-gradient(circle at 25% 25%, rgba(88, 166, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 75% 75%, rgba(88, 166, 255, 0.1) 0%, transparent 50%);"></div>
+  
+  <!-- Grid pattern overlay -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(88, 166, 255, 0.1) 20px), repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(88, 166, 255, 0.1) 20px);"></div>
   
   <!-- Floating particles -->
-  <div style="position: absolute; top: 20%; left: 10%; width: 4px; height: 4px; background: rgba(255,255,255,0.6); border-radius: 50%; animation: particle1 4s ease-in-out infinite;"></div>
-  <div style="position: absolute; top: 60%; right: 15%; width: 6px; height: 6px; background: rgba(255,255,255,0.4); border-radius: 50%; animation: particle2 5s ease-in-out infinite;"></div>
-  <div style="position: absolute; bottom: 30%; left: 20%; width: 3px; height: 3px; background: rgba(255,255,255,0.8); border-radius: 50%; animation: particle3 3s ease-in-out infinite;"></div>
+  <div style="position: absolute; top: 20%; left: 10%; width: 6px; height: 6px; background: rgba(88, 166, 255, 0.3); border-radius: 50%;"></div>
+  <div style="position: absolute; top: 60%; right: 15%; width: 4px; height: 4px; background: rgba(255, 107, 107, 0.4); border-radius: 50%;"></div>
+  <div style="position: absolute; bottom: 30%; left: 20%; width: 3px; height: 3px; background: rgba(78, 205, 196, 0.5); border-radius: 50%;"></div>
+  <div style="position: absolute; top: 25%; right: 25%; width: 2px; height: 2px; background: rgba(254, 202, 87, 0.6); border-radius: 50%;"></div>
+  <div style="position: absolute; bottom: 20%; right: 10%; width: 3px; height: 3px; background: rgba(255, 159, 243, 0.4); border-radius: 50%;"></div>
   
   <!-- HEADER ANIMASI -->
   <p align="center" style="position: relative; z-index: 2;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Divo+Tahta+Imannulloh!;Web+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+colorful+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Divo+Tahta+Imannulloh!;Web+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+colorful+GitHub+profile!" alt="Typing SVG" />
   </p>
 
-  <!-- 3D SNAKE TEXT ANIMATION -->
+  <!-- SNAKE TEXT ANIMATION -->
   <p align="center" style="position: relative; z-index: 2;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=🐍+3D+Snake+Text+Animation+🐍;Web+Developer+%7C+Coder+%7C+Innovator;Passionate+About+Technology+%F0%9F%92%BB;Creating+Amazing+Digital+Experiences+%F0%9F%8E%A8;Always+Learning+%7C+Always+Growing+%F0%9F%93%9A" alt="3D Snake Text Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=🐍+Snake+Text+Animation+🐍;Web+Developer+%7C+Coder+%7C+Innovator;Passionate+About+Technology+%F0%9F%92%BB;Creating+Amazing+Digital+Experiences+%F0%9F%8E%A8;Always+Learning+%7C+Always+Growing+%F0%9F%93%9A" alt="Snake Text Animation" />
   </p>
 
   <!-- BANNER ANIMASI -->
@@ -47,8 +52,8 @@
 
   <!-- 3D PROGRESS BAR SKILL -->
   <p align="center" style="position: relative; z-index: 2;">
-    <img src="https://github-readme-stats.vercel.app/api?username=divotahta&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF" width="400" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divotahta&theme=radical&hide_border=true&background=00000000&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakNum=ffffff&currStreakLabel=FF00FF&sideNums=ffffff&sideLabels=FF00FF&dates=ffffff" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=divotahta&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divotahta&theme=radical&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&currStreakLabel=58A6FF&sideNums=ffffff&sideLabels=58A6FF&dates=ffffff" width="400" />
   </p>
 
   <!-- 3D WAVE SVG -->
