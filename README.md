@@ -31,7 +31,8 @@
 
 <!-- 3D PROGRESS BAR SKILL -->
 <p align="center">
-  <img src="https://github-profile-readme-progress-bar.vercel.app/api?name=divotahta&theme=rainbow" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divotahta&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divotahta&theme=radical&hide_border=true&background=0d1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakNum=ffffff&currStreakLabel=FF00FF&sideNums=ffffff&sideLabels=FF00FF&dates=ffffff" width="400" />
 </p>
 
 <!-- 3D WAVE SVG -->
