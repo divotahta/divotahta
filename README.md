@@ -1,51 +1,92 @@
-<!-- HEADER ANIMASI -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Divo+Tahta+Imannulloh!;Web+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
+<!-- BACKGROUND TEXTURE SECTION -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
+  
+  <!-- Animated background pattern -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: radial-gradient(circle at 25% 25%, rgba(255,255,255,0.1) 0%, transparent 50%), radial-gradient(circle at 75% 75%, rgba(255,255,255,0.1) 0%, transparent 50%); animation: float 6s ease-in-out infinite;"></div>
+  
+  <!-- Floating particles -->
+  <div style="position: absolute; top: 20%; left: 10%; width: 4px; height: 4px; background: rgba(255,255,255,0.6); border-radius: 50%; animation: particle1 4s ease-in-out infinite;"></div>
+  <div style="position: absolute; top: 60%; right: 15%; width: 6px; height: 6px; background: rgba(255,255,255,0.4); border-radius: 50%; animation: particle2 5s ease-in-out infinite;"></div>
+  <div style="position: absolute; bottom: 30%; left: 20%; width: 3px; height: 3px; background: rgba(255,255,255,0.8); border-radius: 50%; animation: particle3 3s ease-in-out infinite;"></div>
+  
+  <!-- HEADER ANIMASI -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&lines=Halo%2C+Saya+Divo+Tahta+Imannulloh!;Web+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Welcome+to+my+colorful+GitHub+profile!" alt="Typing SVG" />
+  </p>
 
-<!-- BANNER ANIMASI -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
+  <!-- 3D SNAKE TEXT ANIMATION -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=🐍+3D+Snake+Text+Animation+🐍;Web+Developer+%7C+Coder+%7C+Innovator;Passionate+About+Technology+%F0%9F%92%BB;Creating+Amazing+Digital+Experiences+%F0%9F%8E%A8;Always+Learning+%7C+Always+Growing+%F0%9F%93%9A" alt="3D Snake Text Animation" />
+  </p>
 
-<!-- 3D ROTATING CUBE ANIMATION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
+  <!-- BANNER ANIMASI -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  </p>
 
-<!-- 3D TEXT EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;Innovation+Enthusiast+%F0%9F%9A%80" alt="3D Typing SVG" />
-</p>
+  <!-- 3D ROTATING CUBE ANIMATION -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  </p>
 
-<!-- BADGE CUSTOM & WARNA-WARNI -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Passion-FF00FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-00FF00?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Dev-Active-00BFFF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-Fan-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ngoding%20Setiap%20Hari-Yes!-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+  <!-- 3D TEXT EFFECT -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=3D+Web+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;Innovation+Enthusiast+%F0%9F%9A%80" alt="3D Typing SVG" />
+  </p>
 
-<!-- 3D PROGRESS BAR SKILL -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divotahta&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divotahta&theme=radical&hide_border=true&background=0d1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakNum=ffffff&currStreakLabel=FF00FF&sideNums=ffffff&sideLabels=FF00FF&dates=ffffff" width="400" />
-</p>
+  <!-- BADGE CUSTOM & WARNA-WARNI -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://img.shields.io/badge/Code-Passion-FF00FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Source-Lover-00FF00?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web%20Dev-Active-00BFFF?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-Fan-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ngoding%20Setiap%20Hari-Yes!-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </p>
 
-<!-- 3D WAVE SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
+  <!-- 3D PROGRESS BAR SKILL -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://github-readme-stats.vercel.app/api?username=divotahta&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=ffffff&icon_color=FF00FF" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divotahta&theme=radical&hide_border=true&background=00000000&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakNum=ffffff&currStreakLabel=FF00FF&sideNums=ffffff&sideLabels=FF00FF&dates=ffffff" width="400" />
+  </p>
 
-<!-- 3D PARTICLE EFFECT -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
-</p>
+  <!-- 3D WAVE SVG -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </p>
+
+  <!-- 3D PARTICLE EFFECT -->
+  <p align="center" style="position: relative; z-index: 2;">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
+  </p>
+
+</div>
+
+<!-- CSS Animations -->
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes particle1 {
+  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.6; }
+  50% { transform: translate(20px, -20px) scale(1.2); opacity: 1; }
+}
+
+@keyframes particle2 {
+  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.4; }
+  50% { transform: translate(-15px, 15px) scale(1.3); opacity: 0.8; }
+}
+
+@keyframes particle3 {
+  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.8; }
+  50% { transform: translate(10px, -10px) scale(1.1); opacity: 1; }
+}
+</style>
 
 ---
 
