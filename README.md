@@ -70,29 +70,6 @@
 
 </div>
 
-<!-- CSS Animations -->
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes particle1 {
-  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.6; }
-  50% { transform: translate(20px, -20px) scale(1.2); opacity: 1; }
-}
-
-@keyframes particle2 {
-  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.4; }
-  50% { transform: translate(-15px, 15px) scale(1.3); opacity: 0.8; }
-}
-
-@keyframes particle3 {
-  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.8; }
-  50% { transform: translate(10px, -10px) scale(1.1); opacity: 1; }
-}
-</style>
-
 ---
 
 ## 🚀 Tentang Saya
