@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: divotahta
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          snake_color: 'blue'
+
+      - name: Push to GitHub
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }} 
