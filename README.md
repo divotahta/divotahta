@@ -8,10 +8,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- GIF ANIMASI KEREN -->
+<!-- 3D ROTATING CUBE ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
+</p>
+
+<!-- 3D TEXT EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=3D+Web+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;Innovation+Enthusiast+%F0%9F%9A%80" alt="3D Typing SVG" />
 </p>
 
 <!-- BADGE CUSTOM & WARNA-WARNI -->
@@ -23,14 +29,21 @@
   <img src="https://img.shields.io/badge/Ngoding%20Setiap%20Hari-Yes!-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<!-- ANIMASI PROGRESS BAR SKILL -->
+<!-- 3D PROGRESS BAR SKILL -->
 <p align="center">
   <img src="https://github-profile-readme-progress-bar.vercel.app/api?name=divotahta&theme=rainbow" width="500" />
 </p>
 
-<!-- ANIMASI WAVE SVG -->
+<!-- 3D WAVE SVG -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<!-- 3D PARTICLE EFFECT -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" />
 </p>
 
 ---
@@ -39,6 +52,11 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</p>
+
+<!-- 3D ABOUT ME TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%93%9A;Open+Source+Contributor+%F0%9F%8C%9F" alt="About Me Typing" />
 </p>
 
 - 🔭 **Sedang mengerjakan:** Web Development & Programming Projects
@@ -55,6 +73,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github,vscode,figma,react&theme=light" alt="Tech Stack" />
+</p>
+
+<!-- 3D TECH STACK TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF6B6B&background=000000&center=true&vCenter=true&width=400&lines=Technologies+I+Work+With+%F0%9F%92%BB" alt="Tech Stack Title" />
 </p>
 
 <!-- BADGE SKILL WARNA-WARNI -->
@@ -74,6 +97,11 @@
 
 ## 📊 Statistik GitHub
 
+<!-- 3D STATS TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4ECDC4&background=000000&center=true&vCenter=true&width=400&lines=My+GitHub+Statistics+%F0%9F%93%8A" alt="Stats Title" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divotahta&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divotahta&theme=radical" alt="GitHub Streak" />
@@ -87,6 +115,11 @@
 ---
 
 ## 🏆 Repositori Populer
+
+<!-- 3D REPOS TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF9F43&background=000000&center=true&vCenter=true&width=400&lines=Featured+Repositories+%F0%9F%8C%9F" alt="Repos Title" />
+</p>
 
 <p align="center">
   <a href="https://github.com/divotahta/pbo-module-task">
@@ -107,6 +140,11 @@
 
 ## 🎯 Goals 2025
 
+<!-- 3D GOALS TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C5CE7&background=000000&center=true&vCenter=true&width=400&lines=2025+Goals+%F0%9F%93%8A" alt="Goals Title" />
+</p>
+
 - [ ] Master Advanced JavaScript Frameworks
 - [ ] Contribute to Open Source Projects
 - [ ] Build More Web Applications
@@ -116,6 +154,11 @@
 ---
 
 ## 🤝 Connect With Me
+
+<!-- 3D CONNECT TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00B894&background=000000&center=true&vCenter=true&width=400&lines=Let%27s+Connect+%F0%9F%92%AC" alt="Connect Title" />
+</p>
 
 <p align="center">
   <a href="https://github.com/divotahta">
@@ -128,8 +171,14 @@
 
 ---
 
+<!-- 3D FOOTER ANIMATION -->
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" />
   <img src="https://komarev.com/ghpvc/?username=divotahta&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+coding!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
